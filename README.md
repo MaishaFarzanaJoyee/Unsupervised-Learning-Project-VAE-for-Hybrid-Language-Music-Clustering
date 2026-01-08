@@ -28,4 +28,4 @@ Our Hybrid Fusion approach demonstrated a **400% improvement** in Silhouette Sco
 
 ##  Keywords
 
-`Music Information Retrieval` `VAE` `Multi-modal Learning` `GTZAN` `Representation Learning` `Latent Space` `Feature Fusion` `Unsupervised Learning`
+`Music Information Retrieval` `VAE` `Multi-modal Learning` `GTZAN` `Representation Learning` `Latent Space` `Feature Fusion` `Unsupervised Learning` `BRACU` `CSE425` `425` `PROJECT` 
