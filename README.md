@@ -21,9 +21,9 @@ This repository contains the implementation of a **Variational Autoencoder (VAE)
 Our Hybrid Fusion approach demonstrated a **400% improvement** in Silhouette Score compared to audio-only baselines, proving that lyrical data successfully disentangles overlapping musical genres like *Rock* and *Blues*.
 
 ##  How To RUn
-* Download the notebook here(link)
+* Download the notebook [here](https://drive.google.com/file/d/1zT0pXp4gN4whciFamR0dTTUgJ3YEVNag/view?usp=drive_link)
 * Download the audio (Data\audio)
-* Download the zipped lyrics (Data\lyrics)
+* Download the zipped lyrics (Data\lyrics) and unzip
 * Run the notebook with these training data
 
 ##  Keywords
